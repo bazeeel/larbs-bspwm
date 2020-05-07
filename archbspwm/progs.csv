@@ -1,6 +1,9 @@
 #TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
 ,bspwm,"is the main graphical user interface and window manager."
 ,picom,"is for transparency and removing screen-tearing."
+,urxvt-perls,
+,rxvt-unicode,
+,rxvt-unicode-terminfo,
 ,neofetch,"neofetch-terminfo"
 A,ttf-jetbrains-mono,"terminal and polybar fonts"
 ,xorg-server,"is the graphical server."
@@ -17,8 +20,6 @@ A,ttf-jetbrains-mono,"terminal and polybar fonts"
 A,sublime-text-dev,"favorite editor."
 ,ed,"is the standard editor!"
 ,tree,"lists directory contents like trees. Used by vifm."
-,arandr,"is a UI for screen adjustment."
-,bc,"is used for a dropdown calculator."
 ,calcurse,"is a lightweight terminal-based calendar."
 A,dmenu2,"is for starting apps and much more"
 ,xorg-xprop,"is a tool for detecting window properties."
@@ -78,4 +79,3 @@ A,task-spooler,"queues commands or files for download."
 A,polybar,"best bar out there"
 ,docx2txt,"enables .docx file previews in vifm."
 ,odt2txt,"enables .odt file previews in vifm."
-G,https://github.com/bazeeel/st.git,"my st fork with magyarch-dark-theme"
